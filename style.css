@@ -59,7 +59,7 @@ nav ul a:hover{
 }
 .btn:hover{
     background-color: white;
-    background-color: rgb(24, 24, 24);
+    color: black;
 }
 span{
     background: linear-gradient(to right, #6cff52, #3ec5ff);
