@@ -69,7 +69,7 @@ span{
 #menu{
     color: white;
     font-size: 3em;
-    display: none;
+/*     display: none; */
 }
 section{
     min-height: 100vh;
